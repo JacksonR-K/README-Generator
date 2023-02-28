@@ -38,5 +38,5 @@ N/A
 ## Questions
 
 Any questions regarding the application can be directed via GitHub or Email:
-- [GitHub Profile](github.com/jacksonr-k)
+- [GitHub Profile](https://github.com/jacksonr-k)
 - jrkbirdy@hotmail.com
