@@ -23,6 +23,8 @@ Ensure you have Node.js installed on your system. (This program was designed in 
 
 While in the directory containing “index.js”, ensure you have all dependencies installed by running “npm i”. Then enter “node index.js” to run the program. Answer the on-screen prompts to finish your README file.
 
+![Demo Video](./DemoVideo/DemonstrationVideo.mp4)
+
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
@@ -38,5 +40,5 @@ N/A
 ## Questions
 
 Any questions regarding the application can be directed via GitHub or Email:
-- [GitHub Profile](github.com/jacksonr-k)
+- [GitHub Profile](https://www.github.com/jacksonr-k)
 - jrkbirdy@hotmail.com
