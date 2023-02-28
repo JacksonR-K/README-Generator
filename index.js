@@ -110,7 +110,7 @@ ${data.tests}
 ## Questions
 
 Any questions regarding the application can be directed via GitHub or Email:
-- [GitHub Profile](github.com/${data.github})
+- [GitHub Profile](https://www.github.com/${data.github})
 - ${data.email}`,
         (err) => {
             err ? console.log(err) : console.log('README Framework Created!');
